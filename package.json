@@ -1,0 +1,26 @@
+{
+  "name": "nom-nom-nom",
+  "version": "1.0.0",
+  "description": "you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1",
+    "node": "^15.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shelb-doc/Nom-Nom-Nom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shelb-doc/Nom-Nom-Nom/issues"
+  },
+  "homepage": "https://github.com/shelb-doc/Nom-Nom-Nom#readme"
+}
