@@ -2,7 +2,7 @@
   "name": "nom-nom-nom",
   "version": "1.0.0",
   "description": "you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
