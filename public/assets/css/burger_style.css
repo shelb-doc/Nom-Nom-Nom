@@ -1,12 +1,13 @@
 /* Layout */
 body {
-    font-family: 'DM Mono', sans-serif;
+    font-family: 'Gravitas One', cursive;
     margin: 40px;
-    background-color: #FDCA21;
+    background-color: #e0af0b;
 }
 
 .container {
     background-color: white;
+    opacity: 0.5;
     margin: 5px 20px;
     border-radius: 10px;
     padding: 30px 40px
@@ -24,6 +25,7 @@ body {
 .not-devoured, .devoured-burgers {
     width: 50%;
     background-color: white;
+    opacity: 0.5;
     margin: 20px;
     border-radius: 10px;
     padding: 20px;
@@ -49,10 +51,11 @@ h2 {
 
 /* Buttons */
 button {
-    font-family: 'Open Sans', monospace;
+    font-family: 'Amiko', sans-serif;
     margin-left: 15px;
-    background-color: rgb(89, 89, 89);
+    background-color: rgb(92, 92, 92);
     color: white;
+    opacity: 0.5;
     border-radius: 5px;
     border: none;
     padding: 2px 10px;
