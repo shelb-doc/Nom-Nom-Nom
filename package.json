@@ -17,8 +17,8 @@
     "type": "git",
     "url": "git+https://github.com/shelb-doc/Nom-Nom-Nom.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Shelby De Oliveira Cignetti",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/shelb-doc/Nom-Nom-Nom/issues"
   },
